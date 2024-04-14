@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+:root {
+    font-size: 62.5%;
+    --nav-bg-color
+
+}
+body{
+    font-size: 1.5rem;
+}
+h1{
+    text-align: center;
+    font: 6rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    background-color: black;
+    color: azure;
+    height: 9rem;
+}
+form{
+    width: 60rem;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 5px;
+
+}
+label{
+    display: block;
+    margin-bottom: 1rem;
+}
+input{
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+
+}
+button{
+    display: block;
+    width: 100%;
+    padding: 1px;
+    margin-top: 20px;
+    background-color: rgb(173, 173, 248);
+    color: azure;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: brown;
+
+}
